@@ -1,4 +1,9 @@
 ul {
     list-style: none;
     display: inline-flex;
+    margin-left: -2rem;
+}
+
+li {
+    padding-left: 2rem;
 }
